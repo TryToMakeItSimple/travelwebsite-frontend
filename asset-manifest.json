@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travelwebsite-frontend/static/css/main.65819a15.css",
+    "main.js": "/travelwebsite-frontend/static/js/main.59af0681.js",
+    "static/media/beachVid.mp4": "/travelwebsite-frontend/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/boracay1.jpg": "/travelwebsite-frontend/static/media/boracay1.a1eeb9888339c1848847.jpg",
+    "static/media/Panglao.jpg": "/travelwebsite-frontend/static/media/Panglao.695ef442b57406e9b42e.jpg",
+    "static/media/boracay2.jpg": "/travelwebsite-frontend/static/media/boracay2.46c0c2ed26cdac8082b0.jpg",
+    "static/media/elnido1.jpg": "/travelwebsite-frontend/static/media/elnido1.41aeaef7a6a896252800.jpg",
+    "static/media/coron1.jpg": "/travelwebsite-frontend/static/media/coron1.15920ed9f76c1ff2dd1f.jpg",
+    "static/media/IsladeGigantes.jpg": "/travelwebsite-frontend/static/media/IsladeGigantes.594caeb00058670abb35.jpg",
+    "static/media/baclayon.jpg": "/travelwebsite-frontend/static/media/baclayon.1f4b6d0430653d3cee56.jpg",
+    "index.html": "/travelwebsite-frontend/index.html",
+    "main.65819a15.css.map": "/travelwebsite-frontend/static/css/main.65819a15.css.map",
+    "main.59af0681.js.map": "/travelwebsite-frontend/static/js/main.59af0681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65819a15.css",
+    "static/js/main.59af0681.js"
+  ]
+}
